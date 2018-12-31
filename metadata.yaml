@@ -1,0 +1,27 @@
+_repo: The-Naturalist-s-Library-Vol-XXXI-Foreign-Butterflies_58571
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: others
+    gutenberg_agent_id: '50035'
+    url: http://www.gutenberg.org/2009/agents/50035
+  - agent_name: James, Duncan
+    gutenberg_agent_id: '50034'
+    url: http://www.gutenberg.org/2009/agents/50034
+  editor:
+    agent_name: William, Jardine
+    gutenberg_agent_id: '50036'
+    url: http://www.gutenberg.org/2009/agents/50036
+description: ''
+gutenberg_issued: '2018-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Naturalist's Library, Vol XXXI. Foreign Butterflies
+url: http://www.gutenberg.org/ebooks/58571
